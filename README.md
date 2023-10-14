@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Noidea908
+- 👀 I’m interested in Science
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Anything
+- 📫 How to reach me Discord: semideia_
