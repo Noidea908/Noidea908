@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noidea908
+- 👋 Hi, I’m Bruno
 - 👀 I’m interested in Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Anything
